@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiegoRicordi <a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a>
+- 👋 Hi, I’m @DiegoRicordi 🍕
 - 👀 I’m interested in Learn programming and development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on whatever is necessary
